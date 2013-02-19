@@ -25,6 +25,8 @@ div.a span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-left-radius:2px;
 }
 div.a span:nth-child(2){
@@ -32,17 +34,19 @@ div.a span:nth-child(2){
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-right-radius:2px;
 }
 div.a span:nth-child(3){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-left:2px solid black;
   padding-left:0;
 }
 div.a span:nth-child(4){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-right:2px solid black;
   padding-right:0;
 }
@@ -52,6 +56,8 @@ div.b span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-left-radius:2px;
 }
 div.b span:nth-child(2){
@@ -59,13 +65,15 @@ div.b span:nth-child(2){
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-right-radius:2px;
 }
 div.b span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom:2px solid black;
   padding-bottom:0;
 }
@@ -74,8 +82,8 @@ div.b span:nth-child(4){
   padding-bottom:0;
   border-right:2px solid black;
   padding-right:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom-right-radius:2px;
 }
 
@@ -134,17 +142,21 @@ div.e span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-left-radius:2px;
 }
 div.e span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.e span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom:2px solid black;
   padding-bottom:0;
   border-bottom-left-radius:2px;
@@ -152,8 +164,8 @@ div.e span:nth-child(3){
 div.e span:nth-child(4){
   border-bottom:2px solid black;
   padding-bottom:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 
 div.f span:nth-child(1){
@@ -161,21 +173,25 @@ div.f span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-left-radius:2px;
 }
 div.f span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.f span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 div.f span:nth-child(4){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 
 div.g span:nth-child(1){
@@ -188,6 +204,8 @@ div.g span:nth-child(1){
 div.g span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.g span:nth-child(3){
   border-left:2px solid black;
@@ -199,8 +217,8 @@ div.g span:nth-child(3){
 div.g span:nth-child(4){
   border-right: 2px solid black;
   padding-right:0;
-  border-top: 2px solid black;
-  padding-top:0;
+  border-top: 1px solid black;
+  padding-top:1px;
   border-bottom: 2px solid black;
   padding-bottom:0;
 }
@@ -208,22 +226,26 @@ div.g span:nth-child(4){
 div.h span:nth-child(1){
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.h span:nth-child(2){
   border-right:2px solid black;
   padding-right:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.h span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 div.h span:nth-child(4){
   border-right:2px solid black;
   padding-right:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 
 div.i span:nth-child(1){
@@ -402,24 +424,27 @@ div.p span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
-  border-bottom:2px solid black;
-  padding-bottom:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.p span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
-  border-bottom:2px solid black;
-  padding-bottom:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-right-radius:2px;
-  border-bottom-right-radius:2px;
 }
 div.p span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 div.p span:nth-child(4){
+  border-top:1px solid black;
+  padding-top:1px;
 }
 
 div.q span:nth-child(1){
@@ -427,24 +452,27 @@ div.q span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
-  border-bottom:2px solid black;
-  padding-bottom:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
+  border-top-left-radius: 2px;
 }
 div.q span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
-  border-bottom:2px solid black;
-  padding-bottom:0;
-  border-left-right-radius:2px;
-  border-left-right-radius:2px;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.q span:nth-child(3){
+  border-top:1px solid black;
+  padding-top:1px;
 }
 div.q span:nth-child(4){
   border-right:2px solid black;
   padding-right:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
 
 
@@ -453,23 +481,28 @@ div.r span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.r span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
+  width:4px;
   border-top-right-radius:2px;
 }
 div.r span:nth-child(3){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-left:2px solid black;
   padding-left:0;
 }
 div.r span:nth-child(4){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-right:2px solid black;
   padding-right:0;
 }
@@ -479,16 +512,20 @@ div.s span:nth-child(1){
   padding-top:0;
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
   border-top-left-radius:2px;
 }
 
 div.s span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.s span:nth-child(3){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom:2px solid black;
   padding-bottom:0;
 }
@@ -497,8 +534,8 @@ div.s span:nth-child(4){
   padding-right:0;
   border-bottom:2px solid black;
   padding-bottom:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom-right-radius:2px;
 }
 
@@ -648,14 +685,18 @@ div.x span:nth-child(4){
 div.y span:nth-child(1){
   border-left:2px solid black;
   padding-left:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.y span:nth-child(2){
   border-right:2px solid black;
   padding-right:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.y span:nth-child(3){
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom:2px solid black;
   padding-bottom:0;
 }
@@ -664,8 +705,8 @@ div.y span:nth-child(4){
   padding-bottom:0;
   border-right:2px solid black;
   padding-right:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom-right-radius:2px;
 }
 
@@ -673,25 +714,28 @@ div.y span:nth-child(4){
 div.z span:nth-child(1){
   border-top:2px solid black;
   padding-top:0;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.z span:nth-child(2){
   border-top:2px solid black;
   padding-top:0;
   border-right:2px solid black;
   padding-right:0;
-  border-top-right-radius:2px;
+  border-bottom:1px solid black;
+  padding-bottom:1px;
 }
 div.z span:nth-child(3){
   border-left:2px solid black;
   padding-left:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
   border-bottom:2px solid black;
   padding-bottom:0;
 }
 div.z span:nth-child(4){
   border-bottom:2px solid black;
   padding-bottom:0;
-  border-top:2px solid black;
-  padding-top:0;
+  border-top:1px solid black;
+  padding-top:1px;
 }
